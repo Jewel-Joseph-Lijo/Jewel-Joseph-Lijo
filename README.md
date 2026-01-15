@@ -2,6 +2,8 @@
 
 ### A Passionate Developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jewel-Joseph-Lijo&label=Profile views&color=0e75b6&style=flat" alt="Jewel-Joseph-Lijo" /> </p>
+
 - 👨‍💻 All of my projects are available at **[https://jewel-joseph-lijo.github.io/Personal_Website/](https://jewel-joseph-lijo.github.io/Personal_Website/)**
 
 <h3 align="left">Connect with me:</h3>
