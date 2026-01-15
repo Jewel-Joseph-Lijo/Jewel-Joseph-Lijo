@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jewel-Joseph-Lijo&label=Profile views&color=0e75b6&style=flat" alt="Jewel-Joseph-Lijo" /> </p>
 
+- 🔭 I'm currently working on **a Django Project**
+
+- 🌱 I'm currently learning **Machine Learning**
+
 - 👨‍💻 All of my projects are available at **[https://jewel-joseph-lijo.github.io/Personal_Website/](https://jewel-joseph-lijo.github.io/Personal_Website/)**
 
 <h3 align="left">Connect with me:</h3>
