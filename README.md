@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at **[https://jewel-joseph-lijo.github.io/Personal_Website/](https://jewel-joseph-lijo.github.io/Personal_Website/)**
+- 👨‍💻 All of my projects are available at **[https://jewel-joseph-lijo.github.io/Portfolio_Website/](https://jewel-joseph-lijo.github.io/Portfolio_Website/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
